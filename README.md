@@ -1,169 +1,124 @@
+<!-- 
+  ✨ Designed for impact. Built for developers & dreamers.
+  🌐 https://philippe-kappa.vercel.app
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Philippe%20Mugisha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Python+Engineer+%26+AI+Practitioner;Building+Intelligent+Applications;Transforming+Agriculture+with+AI" alt="Dynamic typing header" />
+
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/philippe-mugisha-934470272/">
+    <img src="https://img.shields.io/badge/LinkedIn—Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://philippe-kappa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio—Explore-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:mugishaphilippe3@gmail.com">
+    <img src="https://img.shields.io/badge/Email—Reach+Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Philippe012&color=2DD4BF&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
+---
+
+## 🧠 Who Am I?
+
+I’m **Philippe Mugisha** — a **Python-focused AI engineer** and **full-stack builder** crafting **intelligent systems that solve real-world problems**, especially in **agriculture, sustainability, and emerging markets**.
+
+> **“I don’t chase every language—I master Python to ship AI-powered products that matter.”**
+
+---
+
+## 🔥 What I Build
+
 <div align="center">
-  
-### AI Engineer & Full-Stack Developer
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=Building+Intelligent+Agricultural+Solutions;Transformer+Models+%7C+Computer+Vision;Django+%2B+React+%2B+AI+Integration;Turning+Data+Into+Impact)
 
-<br>
+| 🤖 **AI/ML Engineering** | 🏗️ **Full-Stack Systems** |
+|--------------------------|----------------------------|
+| • Fine-tuning Transformers<br>• Crop disease detection<br>• Market forecasting<br>• Conversational AI for farmers | • Django & Flask backends<br>• React + Tailwind frontends<br>• RESTful APIs & OAuth<br>• Real-time data pipelines |
 
-<a href="https://www.linkedin.com/in/philippe-mugisha-934470272/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" />
-</a>
-<a href="https://philippe-kappa.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&style=flat-square" />
-</a>
-<a href="mailto:mugishaphilippe3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" />
-</a>
+| 📊 **Data-Driven UX** | 💎 **Design Mindset** |
+|------------------------|------------------------|
+| • IoT + AI integration<br>• Context-aware assistants<br>• Live RAG architectures | • Figma-first workflows<br>• Responsive, accessible UIs<br>• User empathy > trends |
 
 </div>
 
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🐍 Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🤖 AI/ML
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🌱 Current Projects
+
+<div align="center">
+
+| 🌾 **AgriTech Harvest Hub** | 🥑 **AvocadoAI** |
+|----------------------------|------------------|
+| *AI platform for smallholder farmers to optimize yield & market access* | *Context-aware agronomic assistant via natural language* |
+| ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![AI](https://img.shields.io/badge/AI-Transformers-blue?style=flat-square) | ![Status](https://img.shields.io/badge/Status-Refining-yellow?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-Conversational-purple?style=flat-square) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Philippe012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=FFFFFF)](https://github.com/Philippe012)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Philippe012&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=F97316&currStreakLabel=2DD4BF)](https://github.com/Philippe012)
+
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=FFFFFF)](https://github.com/Philippe012)
 
-### 👨‍💻 About Me
+</div>
+
+---
+
+## 🤝 Let’s Build Together
+
+I’m open to collaborating on:
+- **AI for agriculture & sustainability**
+- **Full-stack apps with intelligent UX**
+- **Open-source Python/Django tools**
+- **Real-world ML deployments in emerging markets**
 
 ```python
-class PhilippeMugisha:
-    def __init__(self):
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.location = "Kigali, Rwanda"
-        self.focus = ["Machine Learning", "Agriculture Tech"]
-        
-    def current_work(self):
-        return {
-            "training": "Transformer models for crop analysis",
-            "building": "AI-powered farmer assistance platform",
-            "learning": "Advanced NLP architectures"
-        }
-    
-    def tech_stack(self):
-        return {
-            "ai_ml": ["Transformers", "scikit-learn", "Computer Vision"],
-            "backend": ["Python", "Django", "Flask", "PostgreSQL"],
-            "frontend": ["React", "Next.js", "Tailwind CSS"],
-            "tools": ["Docker", "Git", "Linux"]
-        }
-```
-
-<br clear="right"/>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🌾 AgriTech Harvest Hub** | AI platform for crop disease detection & market forecasting | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django) ![Transformers](https://img.shields.io/badge/-Transformers-black?style=flat-square&logo=huggingface) |
-| **🤖 AvocadoAI** | Conversational AI assistant for farmers | ![NLP](https://img.shields.io/badge/-NLP-black?style=flat-square&logo=tensorflow) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![API](https://img.shields.io/badge/-REST_API-black?style=flat-square&logo=fastapi) |
-
-</div>
-
----
-
-### 🛠️ Technology Arsenal
-
-<div align="center">
-
-#### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-#### Backend Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Philippe012&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Philippe012&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=FFA500&currStreakLabel=F85D7F" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe012&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Philippe012&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Philippe012&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-### 💡 What I'm Working On
-
-```javascript
-const currentFocus = {
-    learning: "Advanced Transformer architectures for agricultural applications",
-    building: "Real-time crop disease detection system",
-    exploring: "Multi-modal AI for farmer decision support",
-    contributing: "Open source ML tools for emerging markets"
-};
-
-// Always open to collaboration on impactful projects
-if (your_project.impact > 0 && your_project.tech.includes("AI")) {
-    collaborate();
-}
-```
-
----
-
-### 📫 Get In Touch
-
-<div align="center">
-
-**Let's build something meaningful together**
-
-<a href="mailto:mugishaphilippe3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mugishaphilippe3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=Philippe012&color=F85D7F&style=for-the-badge&label=VISITORS)
-
-</div>
-
-<br>
-
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div>
+if your_mission in ["impact", "innovation", "integrity"]:
+    print("Let’s connect! 🌍✨")
