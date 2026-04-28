@@ -1,85 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Philippe%20Mugisha&fontSize=50&fontColor=2DD4BF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Engineer&descAlignY=55&descSize=16&descColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Philippe%20Mugisha&fontSize=50&fontColor=2DD4BF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16&descColor=FFFFFF" />
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+intelligent+web+%26+mobile+systems;Training+decision-making+models;Deploying+scalable+AI+solutions;From+crop+disease+to+satellite+imagery)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=Building+AI+for+Real+World+Impact;Computer+Vision+%26+NLP+Systems;Full-Stack+Products+That+Ship;Space+Tech+%26+Data+Engineering)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-mugisha-934470272/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://philippe-kappa.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugishaphilippe3@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Kigali,%20Rwanda-2DD4BF?style=for-the-badge)](https://goo.gl/maps/kigali)
 
 </div>
 
 <br>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 About Me
+## 👋 Hey, I'm Philippe
 
-I'm an AI & Machine Learning Engineer experienced in building intelligent web and mobile systems that process data and solve real-world problems. My core expertise covers **Computer Vision, NLP, Deep Learning, and ML** — with hands-on work training decision-making models and deploying scalable AI solutions.
+I'm an **AI & Machine Learning Engineer** based in Kigali, building intelligent systems that solve tangible problems — from agriculture and real estate to space technology. My work blends **Computer Vision**, **NLP**, and **Deep Learning** with production-grade full-stack engineering.
 
-I'm equally comfortable on the data side: **data annotation**, **data engineering**, and optimizing **data centers** for AI workloads. Lately, I've been passionate about applying intelligent technologies to impactful domains — including **space systems**, agriculture, and sustainable infrastructure.
+I don't just train models. I ship products people actually use.
 
-> *I don't chase buzzwords. I build things that work, that scale, and that actually help people — whether that's a farmer in Rwanda or a satellite operator in orbit.*
+> *"Code should solve problems. AI should serve people."*
 
 <br clear="right"/>
 
 ---
 
-## 🧠 What I Focus On
+## 🔍 What I Actually Work On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Applied AI/ML
-Training and fine-tuning models that make decisions:
+### 🤖 Applied AI / ML
+Hands-on model work with real data and real constraints:
 
-- 🌾 **Crop disease detection** (Computer Vision)
-- 🛰️ **Satellite imagery analysis** for land use / change detection
-- 📊 **Predictive models** for market forecasting & logistics
-- 🧠 **Transformer-based NLP** for local-language interfaces
+- 👁️ **Computer Vision**: object detection, image classification, annotation pipelines
+- 💬 **NLP**: multilingual text processing, conversational interfaces for local languages
+- 🧠 **Deep Learning**: training & fine-tuning Transformers, CNNs, custom architectures
+- 📦 **Deployment**: model optimization, ONNX/TensorRT, edge-ready inference
 
 </td>
 <td width="50%" valign="top">
 
-### 🧱 Data Engineering & Annotation
-Building robust pipelines that feed AI systems:
+### ⚙️ Full-Stack Engineering
+End-to-end product development, no handoffs:
 
-- 📡 **Real-time ETL** from IoT, satellites, and sensors
-- 🏷️ **High-quality data annotation** workflows (image, text, video)
-- 🗄️ **Data center optimization** for training/inference
-- 🔄 **Data versioning & lineage** for reproducibility
+- 🐍 **Backend**: Django, Flask, FastAPI, PostgreSQL, Redis
+- ⚛️ **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- 🔐 **Auth & APIs**: OAuth2, JWT, REST/GraphQL, CORS/CSRF hardening
+- 🌍 **i18n**: multi-language support (EN, FR, SW, RW, ZU, LG)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Full-Stack AI Systems
-Shipping end-to-end applications that hide the complexity:
+### 🗄️ Data Engineering & Infrastructure
+Making data flow reliably:
 
-- ⚙️ **Python backends** (Django, FastAPI, Flask)
-- ⚛️ **React + Next.js** frontends with clean UX
-- 🔗 **REST & GraphQL APIs** for model serving
-- 🚀 **Docker + CI/CD** for reproducible deployments
+- 🔄 **Pipelines**: ETL workflows, real-time ingestion, batch processing
+- 🏢 **Data Centers**: infrastructure awareness, regional deployment strategy
+- 🏷️ **Data Annotation**: building high-quality labeled datasets for CV/NLP
+- ☁️ **Cloud**: Docker, Linux, CI/CD, cost-aware architecture
 
 </td>
 <td width="50%" valign="top">
 
-### 🌌 Space Systems & Impact
-Where my passion meets purpose:
+### 🎨 Product & UX Thinking
+Tech that feels human:
 
-- 🛰️ **On‑orbit inference** (edge ML for satellites)
-- 📡 **Ground station data processing** (telemetry, imagery)
-- 🌍 **Climate & agriculture monitoring** from space
-- 🔭 **Decision support** for mission planning
+- 🎯 User-first design decisions, not just pretty UI
+- ♿ Accessibility baked in from the start
+- 🧪 Rapid prototyping → user feedback → iteration
+- ✨ Micro-interactions that reduce cognitive load
 
 </td>
 </tr>
@@ -87,93 +88,131 @@ Where my passion meets purpose:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools I Use Daily
 
 <div align="center">
 
-### Core Languages & Frameworks
+### Languages
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI & Machine Learning
+### AI / ML
 
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Data Engineering & Annotation
-
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Data Annotation](https://img.shields.io/badge/Data_Annotation-8A2BE2?style=for-the-badge&logo=labelstudio&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6C37?style=for-the-badge)
-
-### Backend & DevOps
+### Backend & Data
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Frontend & Design
+### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Data Centers & Infrastructure
+### DevOps & Workflow
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU_Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Projects I'm Proud Of
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center" style="border: 2px solid #2DD4BF; border-radius: 10px; padding: 20px;">
+<td width="50%" align="center" style="border: 2px solid #2DD4BF; border-radius: 12px; padding: 18px;">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="80" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" width="70" />
 
-### 🌾 AgriTech Harvest Hub
+### 🏠 Pongo
+*Real estate social platform for African markets*
 
-*Production platform helping smallholder farmers with AI-driven insights*
+**What it does:**
+- Transparent property listings with AI-powered image filtering
+- Multilingual interface (EN, FR, SW, RW, ZU, LG)
+- Messaging system with auto-expiry for privacy
+- Mobile-first, responsive UX
 
-- Crop disease detection (CNN) – 95%+ accuracy
-- Real-time market price forecasting
-- Multilingual farmer chatbot (NLP)
-- IoT + satellite soil moisture fusion
+**Stack:** Django • React • PostgreSQL • Redis • FCM
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack-CV%20%7C%20NLP%20%7C%20ETL-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-In%20Production-2DD4BF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Founder%20%26%20Lead%20Engineer-14B8A6?style=for-the-badge"/>
 
 </td>
-<td width="50%" align="center" style="border: 2px solid #2DD4BF; border-radius: 10px; padding: 20px;">
+<td width="50%" align="center" style="border: 2px solid #2DD4BF; border-radius: 12px; padding: 18px;">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" width="70" />
 
-### 🛰️ CosmicIntel
+### 🐄 Girinka AI
+*AI monitoring for livestock health in Rwanda*
 
-*Satellite imagery analysis for land use & disaster response*
+**What it does:**
+- Computer vision for cow health assessment
+- Farmer-friendly mobile interface in Kinyarwanda
+- Offline-capable inference for rural connectivity
+- Integration with local veterinary workflows
 
-- Multi-spectral image segmentation (U-Net)
-- Change detection from Sentinel-2 & Landsat
-- Optimized inference on edge GPU
-- Data annotation pipeline for rare events
+**Stack:** PyTorch • OpenCV • Flutter • Django • ONNX
 
-<img src="https://img.shields.io/badge/Status-Research_Prototype-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Space-CV%20%7C%20Edge_AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Pilot%20Phase-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Impact-100%2B%20Farmers-2DD4BF?style=for-the-badge"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="border: 2px solid #2DD4BF; border-radius: 12px; padding: 18px;">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="70" />
+
+### 🛰️ Space Tech Experiments
+*Hand-gesture control for 3D space simulations*
+
+**What it does:**
+- Real-time hand tracking with MediaPipe
+- 3D object manipulation via Pygame & OpenGL
+- Prototype for intuitive satellite operations UI
+- Educational tool for STEM outreach
+
+**Stack:** Python • MediaPipe • Pygame • OpenCV
+
+<img src="https://img.shields.io/badge/Status-Experimental-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Continuous-2DD4BF?style=for-the-badge"/>
+
+</td>
+<td width="50%" align="center" style="border: 2px solid #2DD4BF; border-radius: 12px; padding: 18px;">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Avocado.png" width="70" />
+
+### 🥑 Avocado AI
+*Decision support for smallholder farmers*
+
+**What it does:**
+- Crop health analysis from smartphone photos
+- Localized agronomic recommendations
+- Market price insights via simple NLP queries
+- Works on low-end devices with model quantization
+
+**Stack:** TensorFlow Lite • Flutter • Django • Firebase
+
+<img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Region-East%20Africa-2DD4BF?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -183,14 +222,14 @@ Where my passion meets purpose:
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Snapshot
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Philippe012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=FFFFFF&ring_color=2DD4BF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Philippe012&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=F97316&currStreakLabel=2DD4BF&sideLabels=2DD4BF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=FFFFFF&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=FFFFFF&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Philippe012&theme=react-dark&hide_border=true&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=FFFFFF&area=true" />
 
 </div>
@@ -199,60 +238,74 @@ Where my passion meets purpose:
 
 <div align="center">
 
-### 🏆 Achievements
+### 🏆 Recent Milestones
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Philippe012&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=Philippe012&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Stars,Followers)
 
 </div>
 
 ---
 
-## 🌱 Open to Collaborate On
+## 🤝 Let's Build Something Real
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### 🛰️ Space Systems
+### 🌍 Africa-First Tech
 
-AI for satellite data, on‑orbit inference, ground segment automation
+Products designed for emerging markets: offline-first, low-bandwidth, multilingual
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### 📊 Data Engineering & Annotation
+### 🧠 Practical AI
 
-Scalable annotation pipelines, data centers for AI, ETL for geospatial/time‑series
+Models that work in production, not just notebooks — with monitoring, fallbacks, and ethics
+
+</td>
+<td width="33%" align="center">
+
+### 🛰️ Space & Geospatial
+
+Tools for satellite data, remote sensing, and intuitive interfaces for complex systems
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### 🌍 Agriculture & Climate
+### 🏠 PropTech Innovation
 
-Crop monitoring, early warning systems, smallholder farmer tools
+Transparent, trustworthy real estate platforms that serve buyers, sellers, and communities
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### 🚀 Production ML
+### 🤲 Open Collaboration
 
-Deploying decision‑making models with low latency, high reliability
+Sharing knowledge, reviewing code, and growing together — no gatekeeping
+
+</td>
+<td width="33%" align="center">
+
+### 🎓 Mentorship & Learning
+
+Helping others break into AI/ML, especially from underrepresented regions
 
 </td>
 </tr>
 </table>
 
-**If your project creates real impact — on Earth or in space — let's talk.**
+**If any of this resonates — let's talk. No pitch decks required. ☕**
 
 </div>
 
 ---
 
-## 💡 Philosophy
+## 💭 How I Work
 
 <div align="center">
 
@@ -260,9 +313,9 @@ Deploying decision‑making models with low latency, high reliability
 
 <br><br>
 
-### "Build with data you trust. Deploy with clarity. Impact with purpose."
+### "Ship small. Learn fast. Scale what matters."
 
-AI is only as good as the data behind it and the decisions it enables. I focus on the full loop: high-quality annotation, robust pipelines, efficient inference, and a user experience that doesn't get in the way. Whether it's a crop disease model or a satellite segmentation network, the goal is the same — solve a real problem, reliably.
+I believe great products come from tight feedback loops, not perfect first drafts. I write code that's easy to change, design systems that tolerate failure, and prioritize user outcomes over technical cleverness.
 
 <br>
 
@@ -270,17 +323,21 @@ AI is only as good as the data behind it and the decisions it enables. I focus o
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Reach Out
 
 <div align="center">
 
-**💬 Interested in space + AI, data engineering for ML, or impact‑driven projects? Reach out.**
+### I'm happy to chat about:
+
+**🔧 Technical architecture** • **🌱 Early-stage product ideas** • **🤝 Collaborative projects** • **🎓 Learning paths in AI/ML**
 
 <br>
 
 [![Email](https://img.shields.io/badge/📧_mugishaphilippe3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugishaphilippe3@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Philippe_Mugisha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-mugisha-934470272/)
-[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://philippe-kappa.vercel.app/)
+
+[![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://philippe-kappa.vercel.app/)
 
 <br>
 
@@ -288,7 +345,7 @@ AI is only as good as the data behind it and the decisions it enables. I focus o
 
 <br>
 
-**⭐ From [Philippe012](https://github.com/Philippe012) — Building the future, one commit at a time**
+**Built with ☕ and intention by [Philippe012](https://github.com/Philippe012)**
 
 </div>
 
