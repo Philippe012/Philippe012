@@ -1,16 +1,17 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Philippe%20Mugisha&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Engineer&descAlignY=55&descSize=16&descColor=E2E8F0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Philippe%20Mugisha&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=16&descColor=E2E8F0"/>
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Building+intelligent+web+%26+mobile+systems;Training+decision-making+models;Deploying+scalable+AI+solutions;From+crop+disease+to+satellite+imagery)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=2563EB&center=true&vCenter=true&width=680&lines=Computer+Vision+%2B+NLP+in+production;Data+pipelines+that+feed+real+models;Founder%2C+Pongo+Inc+%E2%80%94+AI-verified+housing;Full-stack+when+the+model+needs+a+home)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-mugisha-934470272/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://philippe-kappa.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugishaphilippe3@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-1E293B?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/philippemugisha)
+[![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mugishaphilippe3@gmail.com)
 
 </div>
 
@@ -18,62 +19,107 @@
 
 ## About Me
 
-I'm an AI & Machine Learning Engineer building intelligent web and mobile systems that turn raw data into real decisions. My core work spans **computer vision, NLP, and deep learning** — training models that don't just predict, but decide, and deploying them at production scale.
+I'm an **AI & Machine Learning Engineer** based in Kigali, Rwanda, focused on building computer vision and NLP systems that go from trained model to production feature — not just a notebook result. I'm the founder of **Pongo Inc**, where I built a CV pipeline that automatically moderates real estate listings, and I've shipped NLP tools that give smallholder farmers real-time crop advisory in their own context.
 
-I'm just as comfortable on the data side: **annotation pipelines**, **data engineering**, and optimizing infrastructure for AI workloads. Lately I've been focused on applying that skill set to domains that matter — **space systems**, agriculture, healthcare, and transport.
-
-> I don't chase buzzwords. I build things that work, that scale, and that actually help people — whether that's a farmer in Rwanda or a satellite operator in orbit.
+Underneath the modeling work, I care a lot about the data itself — annotation quality, pipeline design, and the infrastructure that gets data ready for training. And because a model is only useful once someone can reach it, I build the full-stack systems (APIs, backends, frontends) that put it in front of real users. I'm also an active participant in Kaggle's **AGI Benchmarking** competition, working on cognitive-capability evaluation frameworks for frontier models.
 
 <br>
 
-## What I Focus On
+## Core Expertise
+
+**🧠 AI & Machine Learning** — *primary focus*
+Computer vision, NLP, transformer models, and predictive ML (Random Forest, anomaly detection), with production experience taking models from training to deployment.
+
+**🗂️ Data Engineering & Annotation** — *supporting capability*
+Large-scale image/video/text annotation (CVAT, Segment AI), ETL pipeline design, and data quality/bias-reduction practices that models actually depend on.
+
+**🏗️ Full-Stack Engineering** — *supporting capability*
+Django/Node.js backends, React/Next.js frontends, REST APIs, and cloud deployment — built specifically to serve AI features to real users, not as a separate skill set.
+
+<br>
+
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Applied AI/ML**
+### 🏠 Real Estate Image Classifier
+**Pongo Inc — production**
 
-Training and fine-tuning models that make decisions:
-- Crop disease detection (computer vision)
-- Satellite imagery analysis for land use & change detection
-- Predictive models for market forecasting & logistics
-- Transformer-based NLP for local-language interfaces
+Computer vision model trained on 58K manually labeled images (29K positive / 29K negative) for automated content moderation on user-uploaded listings.
+
+- **96%** classification accuracy
+- **~80%** reduction in manual review workload
+- Deployed as a real-time moderation layer in production
+
+![CV](https://img.shields.io/badge/Computer_Vision-2563EB?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-16A34A?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**🗂️ Data Engineering & Annotation**
+### 🌾 Avocado AI — Farmer Chatbot
+**NLP · conversational agent**
 
-Building the pipelines that feed AI systems:
-- Real-time ETL from IoT, satellites, and sensors
-- High-quality annotation workflows (image, text, video)
-- Data center optimization for training & inference
-- Data versioning and lineage for reproducibility
+Conversational agent delivering real-time seeding schedules, crop advisory, and disease guidance to smallholder farmers.
+
+- Improves agricultural decision-making at scale
+- Built for low-friction, real-world farmer use
+
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Deployed-16A34A?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🏗️ Full-Stack AI Systems**
+### 🐄 Girinka AI — Cattle Health & Productivity
+**Predictive ML for Rwanda's "One Cow per Family" program**
 
-Shipping end-to-end applications that hide the complexity:
-- Python backends (Django, FastAPI, Flask)
-- React + Next.js frontends with clean UX
-- REST & GraphQL APIs for model serving
-- Docker + CI/CD for reproducible deployments
+Predictive model monitoring cattle health indicators, forecasting productivity trends, and flagging early disease risk.
+
+[Demo model](https://github.com/) · [Full project](https://github.com/)
+
+![ML](https://img.shields.io/badge/Predictive_ML-D97706?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**🛰️ Space Systems & Impact**
+### 🚛 Fleet Operations Predictive Analytics
+**336,776-record NYC Flights dataset**
 
-Where my passion meets purpose:
-- On-orbit inference (edge ML for satellites)
-- Ground station data processing (telemetry, imagery)
-- Climate & agriculture monitoring from space
-- Decision support for mission planning
+ML pipeline (ensemble anomaly detection + Random Forest) integrated with a Snowflake warehouse to predict maintenance needs before failure.
+
+- Power BI dashboard for fleet-manager decisions
+- Shifts maintenance from reactive to predictive
+
+![Stack](https://img.shields.io/badge/Python%20%7C%20Snowflake%20%7C%20MLflow-2563EB?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 AGI Cognitive Benchmarking
+**Kaggle — "Measuring Progress Toward AGI"**
+
+Designing benchmarks aligned with DeepMind's cognitive framework (learning, metacognition, attention, executive function, social cognition) to profile frontier model capabilities.
+
+[Kaggle profile →](https://kaggle.com/philippemugisha)
+
+![Research](https://img.shields.io/badge/AGI_Research-1E293B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Video Annotation for Object Detection
+**Autonomous systems / CV data pipelines**
+
+Frame-level 2D/3D annotation (Segment AI, CVAT) to train object recognition models for autonomous navigation and real-time decision-making.
+
+![Annotation](https://img.shields.io/badge/Data_Annotation-7C3AED?style=flat-square)
 
 </td>
 </tr>
@@ -85,69 +131,58 @@ Where my passion meets purpose:
 
 <div align="center">
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=postgresql&logoColor=4479A1)
-
 **AI & Machine Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![Transformers](https://img.shields.io/badge/Transformers-1E293B?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=5C3EE8)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 
-**Data & Infrastructure**
-![Spark](https://img.shields.io/badge/Spark-1E293B?style=flat-square&logo=apachespark&logoColor=E25A1C)
-![Airflow](https://img.shields.io/badge/Airflow-1E293B?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+**Data Engineering & Annotation**
+![CVAT](https://img.shields.io/badge/CVAT-1E293B?style=flat-square)
+![Segment AI](https://img.shields.io/badge/Segment_AI-1E293B?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-1E293B?style=flat-square&logo=snowflake&logoColor=29B5E8)
+![Power BI](https://img.shields.io/badge/Power_BI-1E293B?style=flat-square&logo=powerbi&logoColor=F2C811)
+![MLflow](https://img.shields.io/badge/MLflow-1E293B?style=flat-square&logo=mlflow&logoColor=0194E2)
+
+**Full-Stack & Infrastructure**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1E293B?style=flat-square&logo=django&logoColor=092E20)
+![Node.js](https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1E293B?style=flat-square&logo=kubernetes&logoColor=326CE5)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Figma](https://img.shields.io/badge/Figma-1E293B?style=flat-square&logo=figma&logoColor=F24E1E)
 
 </div>
 
 <br>
 
-## Featured Projects
+## Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Founder & Lead AI/Full-Stack Engineer** — Pongo Inc · *2025 – Present*
+Building an AI-verified housing platform for African rental markets; designed the CV moderation model and the backend/frontend systems that serve it.
 
-### 🌾 AgriTech Harvest Hub
-*Production platform helping smallholder farmers with AI-driven insights*
+**Full-Stack AI Engineer** — Pongo Inc *(part-time)* · *Nov 2025 – May 2026*
+Integrated ML models into property search and recommendations; built and optimized production AI features end to end.
 
-- Crop disease detection (CNN) — 95%+ accuracy
-- Real-time market price forecasting
-- Multilingual farmer chatbot (NLP)
-- IoT + satellite soil moisture fusion
+**AI & ML Engineer, Intern** — Pakistan High Commission to Rwanda · *Nov 2025 – Feb 2026*
+Applied AI/ML fundamentals in a bilateral-trade context alongside project management and public engagement work.
 
-![Status](https://img.shields.io/badge/Status-Live-16A34A?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-CV%20%7C%20NLP%20%7C%20ETL-2563EB?style=flat-square)
+**Software Engineer Intern** — Hanga Hub Community · *Jul 2024 – Sep 2024*
+Built AgriTech Harvest Hub (farm management platform) and an IoT-integrated milk tracking system.
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### 🛰️ CosmicIntel
-*Satellite imagery analysis for land use & disaster response*
+## Certifications
 
-- Multi-spectral image segmentation (U-Net)
-- Change detection from Sentinel-2 & Landsat
-- Optimized inference on edge GPU
-- Annotation pipeline for rare events
-
-![Status](https://img.shields.io/badge/Status-Research_Prototype-D97706?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-CV%20%7C%20Edge_AI-7C3AED?style=flat-square)
-
-</td>
-</tr>
-</table>
+![Linux Foundation](https://img.shields.io/badge/LFD259_Kubernetes_for_Developers-1E293B?style=flat-square&logo=linuxfoundation&logoColor=FCC624)
+![Linux Foundation](https://img.shields.io/badge/LFS250_Cloud_Native_Essentials-1E293B?style=flat-square&logo=linuxfoundation&logoColor=FCC624)
+![Cisco](https://img.shields.io/badge/CCNA_Intro_to_Networks-1E293B?style=flat-square&logo=cisco&logoColor=1BA0D7)
+![Cisco](https://img.shields.io/badge/Intro_to_Cybersecurity-1E293B?style=flat-square&logo=cisco&logoColor=1BA0D7)
+![DataLens Africa](https://img.shields.io/badge/AI_Data_Annotation_%E2%80%94_DataLens_Africa-1E293B?style=flat-square)
+![IHS Towers](https://img.shields.io/badge/AI_%26_ML_Advanced_(DTP)_%E2%80%94_IHS_Towers-1E293B?style=flat-square)
 
 <br>
 
@@ -158,57 +193,18 @@ Where my passion meets purpose:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Philippe012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=CBD5E1&ring_color=2563EB"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Philippe012&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=CBD5E1"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=CBD5E1&langs_count=6"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Philippe012&theme=react-dark&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF&area=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=CBD5E1&langs_count=6"/>
 
 </div>
 
 <br>
 
-<div align="center">
+## Open to
 
-### 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Philippe012&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)
-
-</div>
-
-<br>
-
-## Open to Collaborate On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🛰️ Space Systems**
-AI for satellite data, on-orbit inference, ground segment automation
-
-**🌍 Agriculture & Climate**
-Crop monitoring, early warning systems, smallholder farmer tools
-
-</td>
-<td width="50%" valign="top">
-
-**🗂️ Data Engineering & Annotation**
-Scalable annotation pipelines, data centers for AI, ETL for geospatial/time-series
-
-**🚀 Production ML**
-Deploying decision-making models with low latency and high reliability
-
-</td>
-</tr>
-</table>
-
-**If your project creates real impact — on Earth or in space — let's talk.**
-
-<br>
-
-## Philosophy
-
-> **"Build with data you trust. Deploy with clarity. Impact with purpose."**
-
-AI is only as good as the data behind it and the decisions it enables. I focus on the full loop: high-quality annotation, robust pipelines, efficient inference, and a user experience that doesn't get in the way. Whether it's a crop disease model or a satellite segmentation network, the goal is the same — solve a real problem, reliably.
+- **AI/ML Engineering roles** — computer vision, NLP, and applied deep learning in production
+- **AGI safety & benchmarking research** — cognitive evaluation of frontier models
+- **Data engineering & annotation** — pipelines and infrastructure that models depend on
+- **Full-stack AI product work** — shipping models as real, usable features
 
 <br>
 
@@ -224,12 +220,8 @@ AI is only as good as the data behind it and the decisions it enables. I focus o
 
 <img src="https://komarev.com/ghpvc/?username=Philippe012&color=2563EB&style=flat-square&label=Profile+Views"/>
 
-<br><br>
-
-**From [Philippe012](https://github.com/Philippe012) — building the future, one commit at a time.**
-
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=110&section=footer"/>
 </div>
