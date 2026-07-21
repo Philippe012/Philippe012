@@ -19,9 +19,9 @@
 
 ## About Me
 
-I'm an **AI & Machine Learning Engineer** based in Kigali, Rwanda, focused on building computer vision and NLP systems that go from trained model to production feature — not just a notebook result. I'm the founder of **Pongo Inc**, where I built a CV pipeline that automatically moderates real estate listings, and I've shipped NLP tools that give smallholder farmers real-time crop advisory in their own context.
+I'm an **AI & Machine Learning Engineer** based in Kigali, Rwanda, focused on building computer vision and NLP systems that go from trained model to production feature not just a notebook result. I'm the builder of **Pongo Inc**, where I built a CV pipeline that automatically moderates real estate listings, and I've shipped NLP tools that give smallholder farmers real-time crop advisory in their own context.
 
-Underneath the modeling work, I care a lot about the data itself — annotation quality, pipeline design, and the infrastructure that gets data ready for training. And because a model is only useful once someone can reach it, I build the full-stack systems (APIs, backends, frontends) that put it in front of real users. I'm also an active participant in Kaggle's **AGI Benchmarking** competition, working on cognitive-capability evaluation frameworks for frontier models.
+Underneath the modeling work, I care a lot about the data itself annotation quality, pipeline design, and the infrastructure that gets data ready for training. And because a model is only useful once someone can reach it, I build the full-stack systems (APIs, backends, frontends) that put it in front of real users. I'm also an active participant in Kaggle's **AGI Benchmarking** competition, working on cognitive-capability evaluation frameworks for frontier models.
 
 <br>
 
@@ -34,7 +34,7 @@ Computer vision, NLP, transformer models, and predictive ML (Random Forest, anom
 Large-scale image/video/text annotation (CVAT, Segment AI), ETL pipeline design, and data quality/bias-reduction practices that models actually depend on.
 
 **🏗️ Full-Stack Engineering** — *supporting capability*
-Django/Node.js backends, React/Next.js frontends, REST APIs, and cloud deployment — built specifically to serve AI features to real users, not as a separate skill set.
+Django/Node.js backends, React/Next.js frontends, REST APIs, and cloud deployment built specifically to serve AI features to real users, not as a separate skill set.
 
 <br>
 
@@ -161,7 +161,7 @@ Frame-level 2D/3D annotation (Segment AI, CVAT) to train object recognition mode
 
 ## Experience
 
-**Founder & Lead AI/Full-Stack Engineer** — Pongo Inc · *2025 – Present*
+**Founder & Lead AI/Full-Stack Engineer** — Pongo Inc · *2025 – 2026*
 Building an AI-verified housing platform for African rental markets; designed the CV moderation model and the backend/frontend systems that serve it.
 
 **Full-Stack AI Engineer** — Pongo Inc *(part-time)* · *Nov 2025 – May 2026*
@@ -201,10 +201,10 @@ Built AgriTech Harvest Hub (farm management platform) and an IoT-integrated milk
 
 ## Open to
 
-- **AI/ML Engineering roles** — computer vision, NLP, and applied deep learning in production
-- **AGI safety & benchmarking research** — cognitive evaluation of frontier models
-- **Data engineering & annotation** — pipelines and infrastructure that models depend on
-- **Full-stack AI product work** — shipping models as real, usable features
+- **AI/ML Engineering roles**  computer vision, NLP, and applied deep learning in production
+- **AGI safety & benchmarking research**  cognitive evaluation of frontier models
+- **Data engineering & annotation**  pipelines and infrastructure that models depend on
+- **Full-stack AI product work**  shipping models as real, usable features
 
 <br>
 
