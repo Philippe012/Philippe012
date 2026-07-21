@@ -179,8 +179,6 @@ Built AgriTech Harvest Hub (farm management platform) and an IoT-integrated milk
 
 ![Linux Foundation](https://img.shields.io/badge/LFD259_Kubernetes_for_Developers-1E293B?style=flat-square&logo=linuxfoundation&logoColor=FCC624)
 ![Linux Foundation](https://img.shields.io/badge/LFS250_Cloud_Native_Essentials-1E293B?style=flat-square&logo=linuxfoundation&logoColor=FCC624)
-![Cisco](https://img.shields.io/badge/CCNA_Intro_to_Networks-1E293B?style=flat-square&logo=cisco&logoColor=1BA0D7)
-![Cisco](https://img.shields.io/badge/Intro_to_Cybersecurity-1E293B?style=flat-square&logo=cisco&logoColor=1BA0D7)
 ![DataLens Africa](https://img.shields.io/badge/AI_Data_Annotation_%E2%80%94_DataLens_Africa-1E293B?style=flat-square)
 ![IHS Towers](https://img.shields.io/badge/AI_%26_ML_Advanced_(DTP)_%E2%80%94_IHS_Towers-1E293B?style=flat-square)
 
