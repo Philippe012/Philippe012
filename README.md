@@ -1,42 +1,74 @@
+<!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Philippe%20Mugisha&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=16&descColor=E2E8F0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:2563EB&height=220&section=header&text=Philippe%20Mugisha&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20MCP%20%C2%B7%20RAG&descAlignY=56&descSize=17&descColor=CBD5E1&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=2563EB&center=true&vCenter=true&width=680&lines=Computer+Vision+%2B+NLP+in+production;Data+pipelines+that+feed+real+models;Founder%2C+Pongo+Inc+%E2%80%94+AI-verified+housing;Full-stack+when+the+model+needs+a+home)
+<a href="https://github.com/Philippe012">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+MCP+agents+with+deterministic+evaluation;RAG+systems+over+real+financial+data;Computer+vision+in+production+%E2%80%94+96%25+accuracy;From+trained+model+to+shipped+feature" alt="Typing intro"/>
+</a>
 
-<br>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-mugisha-934470272/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://philippe-kappa.vercel.app/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-1E293B?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/philippemugisha)
-[![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mugishaphilippe3@gmail.com)
+<a href="https://www.linkedin.com/in/philippe-mugisha-934470272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://philippe-kappa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.kaggle.com/philippemugisha"><img src="https://img.shields.io/badge/Kaggle-0F172A?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/></a>
+<a href="mailto:mugishaphilippe3@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Based_in-Kigali,_Rwanda-1E293B?style=flat-square&labelColor=0B1220" alt="Location"/>
+<img src="https://img.shields.io/badge/Currently-AI_%26_Data_Engineer_Intern_%40_Rwanda_Stock_Exchange-1E293B?style=flat-square&labelColor=0B1220" alt="Current role"/>
+<img src="https://img.shields.io/badge/Open_to-AI%2FML_Roles-16A34A?style=flat-square&labelColor=0B1220" alt="Open to work"/>
 
 </div>
 
-<br>
+<br/>
 
-## About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
 
-I'm an **AI & Machine Learning Engineer** based in Kigali, Rwanda, focused on building computer vision and NLP systems that go from trained model to production feature not just a notebook result. I'm the builder of **Pongo Inc**, where I built a CV pipeline that automatically moderates real estate listings, and I've shipped NLP tools that give smallholder farmers real-time crop advisory in their own context.
+## About
 
-Underneath the modeling work, I care a lot about the data itself annotation quality, pipeline design, and the infrastructure that gets data ready for training. And because a model is only useful once someone can reach it, I build the full-stack systems (APIs, backends, frontends) that put it in front of real users. I'm also an active participant in Kaggle's **AGI Benchmarking** competition, working on cognitive-capability evaluation frameworks for frontier models.
+I'm an **AI & Machine Learning Engineer** who builds systems that work outside the notebook. My focus is **agentic AI and MCP systems**, **retrieval-augmented generation**, and **production computer vision**, backed by solid data engineering.
 
-<br>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Core Expertise
+**Agents & LLM Systems**<br/>
+<sub>MCP client/server design, JSON-RPC, tool orchestration, deterministic agent evaluation, reward and verifier design, RAG.</sub>
 
-**🧠 AI & Machine Learning** — *primary focus*
-Computer vision, NLP, transformer models, and predictive ML (Random Forest, anomaly detection), with production experience taking models from training to deployment.
+</td>
+<td width="33%" valign="top">
 
-**🗂️ Data Engineering & Annotation** — *supporting capability*
-Large-scale image/video/text annotation (CVAT, Segment AI), ETL pipeline design, and data quality/bias-reduction practices that models actually depend on.
+**Machine Learning**<br/>
+<sub>Computer vision, NLP, transformers, anomaly detection, Random Forest and ensembles, time-series, full lifecycle to deployment.</sub>
 
-**🏗️ Full-Stack Engineering** — *supporting capability*
-Django/Node.js backends, React/Next.js frontends, REST APIs, and cloud deployment built specifically to serve AI features to real users, not as a separate skill set.
+</td>
+<td width="33%" valign="top">
 
-<br>
+**Data Engineering**<br/>
+<sub>ETL and validation, Snowflake, data quality, large-scale annotation (CVAT, Segment AI), Power BI, MLflow.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Impact at a Glance
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MCP_Agent_Reward-1.00-2563EB?style=for-the-badge&labelColor=0B1220" alt="Reward"/>
+<img src="https://img.shields.io/badge/CV_Accuracy-96%25-2563EB?style=for-the-badge&labelColor=0B1220" alt="Accuracy"/>
+<img src="https://img.shields.io/badge/Manual_Review_Cut-~80%25-2563EB?style=for-the-badge&labelColor=0B1220" alt="Review reduction"/>
+<img src="https://img.shields.io/badge/Labeled_Images-58K-2563EB?style=for-the-badge&labelColor=0B1220" alt="Images"/>
+
+</div>
+
+<br/>
 
 ## Featured Work
 
@@ -44,182 +76,180 @@ Django/Node.js backends, React/Next.js frontends, REST APIs, and cloud deploymen
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Real Estate Image Classifier
-**Pongo Inc — production**
+### MCP Agent Evaluation Environment
+<sub><code>Python</code> <code>MCP</code> <code>JSON-RPC</code> <code>pytest</code></sub>
 
-Computer vision model trained on 58K manually labeled images (29K positive / 29K negative) for automated content moderation on user-uploaded listings.
+A self-contained MCP client/server framework where a coding agent discovers repo context, reads and writes files, runs tests and inspects diffs through controlled tool calls.
 
-- **96%** classification accuracy
-- **~80%** reduction in manual review workload
-- Deployed as a real-time moderation layer in production
+- Seed, workspace, golden reference and independent verifier kept separate for tamper-resistant scoring
+- 3 benchmark tasks: bug fix, order-state machine, and an O(Q×N) → O(N+Q) optimization
+- **Reward 1.00** with 100% test pass rate; full trajectories logged to JSONL
 
-![CV](https://img.shields.io/badge/Computer_Vision-2563EB?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-16A34A?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 Avocado AI — Farmer Chatbot
-**NLP · conversational agent**
-
-Conversational agent delivering real-time seeding schedules, crop advisory, and disease guidance to smallholder farmers.
-
-- Improves agricultural decision-making at scale
-- Built for low-friction, real-world farmer use
-
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Deployed-16A34A?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐄 Girinka AI — Cattle Health & Productivity
-**Predictive ML for Rwanda's "One Cow per Family" program**
-
-Predictive model monitoring cattle health indicators, forecasting productivity trends, and flagging early disease risk.
-
-[Demo model](https://github.com/) · [Full project](https://github.com/)
-
-![ML](https://img.shields.io/badge/Predictive_ML-D97706?style=flat-square)
+<a href="https://github.com/Philippe012/MCP-Agent"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
+<img src="https://img.shields.io/badge/Status-Complete-16A34A?style=flat-square" alt="Complete"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚛 Fleet Operations Predictive Analytics
-**336,776-record NYC Flights dataset**
+### OperIQ — Enterprise RAG Assistant
+<sub><code>FastAPI</code> <code>React</code> <code>Azure OpenAI</code> <code>Vector DB</code></sub>
 
-ML pipeline (ensemble anomaly detection + Random Forest) integrated with a Snowflake warehouse to predict maintenance needs before failure.
+An AI assistant that connects to company documents, databases and workflows to answer questions, analyze reports and support decisions.
 
-- Power BI dashboard for fleet-manager decisions
-- Shifts maintenance from reactive to predictive
+- Pipeline: upload → chunking → embeddings → vector retrieval → LLM
+- Azure OpenAI with a local-LLM option for testing
+- MCP tool integrations for database access, retrieval and API actions
 
-![Stack](https://img.shields.io/badge/Python%20%7C%20Snowflake%20%7C%20MLflow-2563EB?style=flat-square)
+<img src="https://img.shields.io/badge/Status-In_Development-D97706?style=flat-square" alt="In development"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 AGI Cognitive Benchmarking
-**Kaggle — "Measuring Progress Toward AGI"**
+### Real Estate Image Classifier
+<sub><code>PyTorch</code> <code>CVAT</code> <code>Pongo Inc</code></sub>
 
-Designing benchmarks aligned with DeepMind's cognitive framework (learning, metacognition, attention, executive function, social cognition) to profile frontier model capabilities.
+Production computer-vision model that screens listing uploads automatically.
 
-[Kaggle profile →](https://kaggle.com/philippemugisha)
+- Trained on **58,000** hand-labeled images (29K / 29K balanced)
+- **96%** accuracy, roughly **80%** less manual review
+- Owned the full pipeline: collection, labeling, augmentation, evaluation, deployment
 
-![Research](https://img.shields.io/badge/AGI_Research-1E293B?style=flat-square)
+<img src="https://img.shields.io/badge/Status-Deployed-16A34A?style=flat-square" alt="Deployed"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Video Annotation for Object Detection
-**Autonomous systems / CV data pipelines**
+### Fleet Operations: Reactive to Predictive
+<sub><code>Scikit-learn</code> <code>Snowflake</code> <code>MLflow</code> <code>Power BI</code></sub>
 
-Frame-level 2D/3D annotation (Segment AI, CVAT) to train object recognition models for autonomous navigation and real-time decision-making.
+Predictive maintenance analytics on **336,776** NYC Flights records.
 
-![Annotation](https://img.shields.io/badge/Data_Annotation-7C3AED?style=flat-square)
+- Ensemble anomaly detection plus Random Forest, tracked in MLflow
+- Data modeled in a Snowflake warehouse; risk mapped with Folium
+- Power BI dashboards to flag high-risk assets early
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AGI Cognitive Benchmarking
+<sub><code>Kaggle</code> <code>Benchmark Design</code></sub>
+
+Led **AfriCogniBench**, an 1,800-item metacognition benchmark for Kaggle's *Measuring Progress Toward AGI* competition, built on a framework covering learning, metacognition, attention, executive function and social cognition.
+
+<a href="https://www.kaggle.com/philippemugisha"><img src="https://img.shields.io/badge/Kaggle_Profile-0F172A?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Agriculture & Livestock AI
+<sub><code>Transformers</code> <code>Time-Series</code></sub>
+
+- **Avocado AI** — NLP chatbot giving smallholder farmers seeding schedules, crop advice and disease guidance
+- **Girinka AI** — predictive model for Rwanda's One Cow per Family program, forecasting productivity and flagging early disease risk
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
+
+## Experience
+
+| Role | Organization | Period |
+|:--|:--|:--|
+| **AI & Data Engineer Intern** — RAG over stocks, bonds and coupons data; data pipelines; system documentation | Rwanda Stock Exchange | Sep 2026 – Present |
+| **AI & ML Engineer** — moved a clinical assistant from static questionnaire to LLM-based extraction aligned with the IMCI protocol | Gidion (Clinical AI) | Jun – Jul 2026 |
+| **Founder & AI/ML Lead** — AI-verified renter platform; built the CV model, backend, frontend and cloud pipeline | Pongo Inc | 2025 – May 2026 |
+| **Software Engineer Intern** — AI + IoT milk-tracking system; Vuba booking platform | Hanga Hub Community | Jul – Sep 2024 |
+| **Project Lead & Developer** — farm management app, cross-functional team | AgriTech Harvest Hub | 2024 |
+
+<br/>
+
+## Competitions & Recognition
+
+- **Winner** — AI for Public Good Hackathon, UR UNIPOD (2026)
+- **Google Gemma 4 Developer Agent Competition** — coding-agent track, ongoing
+- **Kaggle: Measuring Progress Toward AGI** — AfriCogniBench lead
+- **micro1 Frontier Engineering Challenge** · **NandaTown SkillMD** (NandaHack x HCLTech)
+
+<br/>
 
 ## Tech Stack
 
 <div align="center">
 
-**AI & Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Transformers](https://img.shields.io/badge/Transformers-1E293B?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![OpenCV](https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+<sub><b>AI · AGENTS · ML</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ML stack"/>
+<br/>
+<img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square" alt="MCP"/>
+<img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/LlamaIndex-0F172A?style=flat-square" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/Hugging_Face-0F172A?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="HF"/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0F172A?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure OpenAI"/>
+<img src="https://img.shields.io/badge/MLflow-0F172A?style=flat-square&logo=mlflow&logoColor=0194E2" alt="MLflow"/>
 
-**Data Engineering & Annotation**
-![CVAT](https://img.shields.io/badge/CVAT-1E293B?style=flat-square)
-![Segment AI](https://img.shields.io/badge/Segment_AI-1E293B?style=flat-square)
-![Snowflake](https://img.shields.io/badge/Snowflake-1E293B?style=flat-square&logo=snowflake&logoColor=29B5E8)
-![Power BI](https://img.shields.io/badge/Power_BI-1E293B?style=flat-square&logo=powerbi&logoColor=F2C811)
-![MLflow](https://img.shields.io/badge/MLflow-1E293B?style=flat-square&logo=mlflow&logoColor=0194E2)
+<br/><br/>
 
-**Full-Stack & Infrastructure**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1E293B?style=flat-square&logo=django&logoColor=092E20)
-![Node.js](https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1E293B?style=flat-square&logo=kubernetes&logoColor=326CE5)
+<sub><b>DATA</b></sub><br/>
+<img src="https://img.shields.io/badge/Snowflake-0F172A?style=flat-square&logo=snowflake&logoColor=29B5E8" alt="Snowflake"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-0F172A?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Power_BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/CVAT-0F172A?style=flat-square" alt="CVAT"/>
+<img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL"/>
+
+<br/><br/>
+
+<sub><b>ENGINEERING & INFRASTRUCTURE</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,react,nextjs,ts,cpp,postgres,docker,kubernetes,git&theme=dark" alt="Engineering stack"/>
 
 </div>
 
-<br>
+<br/>
 
-## Experience
+## Education & Certifications
 
-**Founder & Lead AI/Full-Stack Engineer** — Pongo Inc · *2025 – 2026*
-Building an AI-verified housing platform for African rental markets; designed the CV moderation model and the backend/frontend systems that serve it.
+**BSc, Computer and Software Engineering** — University of Rwanda, College of Science and Technology
 
-**Full-Stack AI Engineer** — Pongo Inc *(part-time)* · *Nov 2025 – May 2026*
-Integrated ML models into property search and recommendations; built and optimized production AI features end to end.
+- **Global Data Science Program** — GCI World, Matsuo-Iwasawa Lab, University of Tokyo (JICA) · *selected from 25,000+ applicants* · 2026
+- **LFD259 Kubernetes for Developers** and **LFS250 Kubernetes & Cloud Native Essentials** — The Linux Foundation · 2025
+- **AI & ML Advanced (DTP)** — IHS Towers / Ministry of ICT & Innovation, Rwanda · 2025
+- **Data Labelling & Annotation for AI** — DataLens Africa · 2026
 
-**AI & ML Engineer, Intern** — Pakistan High Commission to Rwanda · *Nov 2025 – Feb 2026*
-Applied AI/ML fundamentals in a bilateral-trade context alongside project management and public engagement work.
+<br/>
 
-**Software Engineer Intern** — Hanga Hub Community · *Jul 2024 – Sep 2024*
-Built AgriTech Harvest Hub (farm management platform) and an IoT-integrated milk tracking system.
-
-<br>
-
-## Certifications
-
-![Linux Foundation](https://img.shields.io/badge/LFD259_Kubernetes_for_Developers-1E293B?style=flat-square&logo=linuxfoundation&logoColor=FCC624)
-![Linux Foundation](https://img.shields.io/badge/LFS250_Cloud_Native_Essentials-1E293B?style=flat-square&logo=linuxfoundation&logoColor=FCC624)
-![DataLens Africa](https://img.shields.io/badge/AI_Data_Annotation_%E2%80%94_DataLens_Africa-1E293B?style=flat-square)
-![IHS Towers](https://img.shields.io/badge/AI_%26_ML_Advanced_(DTP)_%E2%80%94_IHS_Towers-1E293B?style=flat-square)
-
-<br>
-
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Philippe012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=CBD5E1&ring_color=2563EB"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Philippe012&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=CBD5E1"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Philippe012&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0B1220&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1&ring_color=2563EB" alt="Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Philippe012&theme=transparent&hide_border=true&background=0B1220&stroke=1E3A8A&ring=2563EB&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=3B82F6&sideNums=FFFFFF&sideLabels=CBD5E1&dates=94A3B8" alt="Streak"/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=CBD5E1&langs_count=6"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Philippe012&bg_color=0B1220&color=CBD5E1&line=2563EB&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph"/>
 
 </div>
 
-<br>
+<br/>
 
-## Open to
-
-- **AI/ML Engineering roles**  computer vision, NLP, and applied deep learning in production
-- **AGI safety & benchmarking research**  cognitive evaluation of frontier models
-- **Data engineering & annotation**  pipelines and infrastructure that models depend on
-- **Full-stack AI product work**  shipping models as real, usable features
-
-<br>
-
-## Let's Connect
+## Let's Build Something
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/mugishaphilippe3@gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mugishaphilippe3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Philippe_Mugisha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-mugisha-934470272/)
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://philippe-kappa.vercel.app/)
+I'm open to **AI/ML engineering roles**, **agent and evaluation work**, and **RAG or data platform projects**.
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Philippe012&color=2563EB&style=flat-square&label=Profile+Views"/>
+<a href="mailto:mugishaphilippe3@gmail.com"><img src="https://img.shields.io/badge/mugishaphilippe3@gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/philippe-mugisha-934470272/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Philippe012&color=2563EB&style=flat-square&label=Profile+Views" alt="Views"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=110&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0B1220&height=120&section=footer" width="100%"/>
