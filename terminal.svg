@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; font-size: 15px; }
+    .prompt { fill: #3B82F6; font-weight: 700; }
+    .cmd { fill: #E2E8F0; }
+    .out { fill: #94A3B8; }
+    .hi { fill: #60A5FA; }
+    .dir { fill: #38BDF8; }
+    .quote { fill: #CBD5E1; font-style: italic; }
+    .line { opacity: 0; animation: show 0.45s ease-out forwards; }
+    @keyframes show { from { opacity: 0; } to { opacity: 1; } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .pulse { animation: pulse 1.8s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+    .glow { animation: glow 4s ease-in-out infinite; }
+    @keyframes glow { 0%, 100% { stroke-opacity: 0.35; } 50% { stroke-opacity: 1; } }
+  </style>
+
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Window -->
+  <rect x="1" y="1" width="858" height="338" rx="14" fill="#0B1220"/>
+  <rect class="glow" x="1" y="1" width="858" height="338" rx="14" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+  <path d="M1 15 a14 14 0 0 1 14 -14 h830 a14 14 0 0 1 14 14 v27 h-858 z" fill="#0F172A"/>
+  <line x1="1" y1="42" x2="859" y2="42" stroke="#1E293B"/>
+  <circle cx="24" cy="22" r="6" fill="#EF4444"/>
+  <circle cx="44" cy="22" r="6" fill="#F59E0B"/>
+  <circle cx="64" cy="22" r="6" fill="#22C55E"/>
+  <text x="430" y="27" text-anchor="middle" class="mono" fill="#64748B" font-size="13">philippe@kigali: ~</text>
+  <circle class="pulse" cx="780" cy="22" r="4" fill="#22C55E"/>
+  <text x="792" y="27" class="mono" fill="#64748B" font-size="12">building</text>
+
+  <!-- Session -->
+  <g class="mono">
+    <text class="line" x="28" y="78" style="animation-delay:0.3s"><tspan class="prompt">$</tspan><tspan class="cmd"> whoami</tspan></text>
+    <text class="line" x="28" y="104" style="animation-delay:0.9s"><tspan class="hi">Philippe Mugisha</tspan><tspan class="out"> · AI &amp; Machine Learning Engineer · Kigali, Rwanda</tspan></text>
+
+    <text class="line" x="28" y="140" style="animation-delay:1.6s"><tspan class="prompt">$</tspan><tspan class="cmd"> cat focus.txt</tspan></text>
+    <text class="line" x="28" y="166" style="animation-delay:2.2s"><tspan class="hi">→</tspan><tspan class="out"> agentic AI &amp; MCP    </tspan><tspan class="hi">→</tspan><tspan class="out"> RAG pipelines    </tspan><tspan class="hi">→</tspan><tspan class="out"> computer vision    </tspan><tspan class="hi">→</tspan><tspan class="out"> data engineering</tspan></text>
+
+    <text class="line" x="28" y="202" style="animation-delay:2.9s"><tspan class="prompt">$</tspan><tspan class="cmd"> ls ./shipped</tspan></text>
+    <text class="line" x="28" y="228" style="animation-delay:3.5s"><tspan class="dir">mcp-agent/    operiq/    pongo-cv-classifier/    africognibench/    fleet-analytics/</tspan></text>
+
+    <text class="line" x="28" y="264" style="animation-delay:4.2s"><tspan class="prompt">$</tspan><tspan class="cmd"> echo $MOTTO</tspan></text>
+    <text class="line" x="28" y="290" style="animation-delay:4.8s"><tspan class="quote">"A model is only useful once someone can reach it."</tspan></text>
+
+    <text class="line" x="28" y="322" style="animation-delay:5.4s"><tspan class="prompt">$</tspan></text>
+    <rect class="line cursor" x="44" y="309" width="9" height="17" fill="#3B82F6" style="animation-delay:5.4s"/>
+  </g>
+</svg>
