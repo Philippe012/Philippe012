@@ -166,10 +166,9 @@ Turns 336K flight records into early warnings for maintenance. Anomaly detection
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Philippe012&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1&ring_color=2563EB" alt="Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Philippe012&hide_border=true&background=0B1220&stroke=1E3A8A&ring=2563EB&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=3B82F6&sideNums=FFFFFF&sideLabels=CBD5E1&dates=94A3B8" alt="Streak"/>
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Philippe012&bg_color=0B1220&color=CBD5E1&line=2563EB&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20Pulse" alt="Activity graph"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Philippe012&hide_border=true&background=0B1220&stroke=1E3A8A&ring=2563EB&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=3B82F6&sideNums=FFFFFF&sideLabels=CBD5E1&dates=94A3B8" alt="Streak"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/Philippe012/Philippe012/output/snake-dark.svg" alt="Contribution snake"/>
 
